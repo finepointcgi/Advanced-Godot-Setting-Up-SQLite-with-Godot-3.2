@@ -29,5 +29,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@finepointcgi](https://twitter.com/finepointcgi)
+Mitch - [@finepointcgi](https://twitter.com/finepointcgi)
 
